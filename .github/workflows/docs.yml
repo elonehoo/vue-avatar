@@ -3,7 +3,7 @@ name: docs
 on:
   # trigger deployment on every push to main branch
   push:
-    branches: [master]
+    branches: [main]
   # trigger deployment manually
   workflow_dispatch:
 
@@ -42,6 +42,9 @@ jobs:
       # run build script
       - name: Build site
         run: yarn build
+        
+      - name: echo CNAME 
+      - run: echo 'avatar.elonehoo.xyz' > dist/CNAME
 
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
