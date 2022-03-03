@@ -4,4 +4,4 @@ Collect your avatar from different parts. The code of this program is very easy,
 
 ## Demo
 
-[Live Demo](https://avatar.elonehoo.xyz/)
+[Live Demo](https://avatar.elonehoo.xyz)
