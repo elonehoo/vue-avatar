@@ -14,7 +14,7 @@
     "vue-meta": "^2.4.0"
   },
   "devDependencies": {
-    "canvg": "^3.0.7",
+    "canvg": "^4.0.2",
     "sass": "^1.49.0",
     "sass-loader": "^8.0.2",
     "vite": "^2.8.0",
