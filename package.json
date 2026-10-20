@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "node-sass": "^7.0.3",
-    "vite-plugin-vue2": "^1.9.3",
+    "vite-plugin-vue2": "^2.0.3",
     "vue": "^2.7.16",
     "vue-meta": "^2.4.0"
   },
